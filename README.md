@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/1221951787318378607/1221955042660061214/image.png?ex=66147550&is=66020050&hm=e4c7cb5b4f25383d7537ee1ea5a7868b9609e8751a4cb1eac9d638bfb806ab76&" alt="Imagem da aplicação">
+<img src="https://github.com/maylajamile/github-images/blob/041414446d872b86a4a95f58696d7142d7b2046f/image7.png" alt="Imagem da aplicação">
 <h1>Leilão</h1>
 <p>Aplicação feita utilizando Spring Boot, simulando um leilão.</p>
 
