@@ -7,7 +7,7 @@
 - H2 DataBase
 - Eclipse IDE
 - Maven
-- Spring Boot
+- Spring Framework
 
 ## Informações
 
