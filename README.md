@@ -1,6 +1,6 @@
 <img src="https://github.com/maylajamile/github-images/blob/041414446d872b86a4a95f58696d7142d7b2046f/image7.png" alt="Imagem da aplicação">
 <h1>Leilão</h1>
-<p>Aplicação feita utilizando Spring Boot, simulando um leilão.</p>
+<p>Aplicação feita utilizando Spring Framework, simulando um leilão.</p>
 
 ## Ferramentas
 - JDK 8
